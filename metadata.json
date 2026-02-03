@@ -1,0 +1,5 @@
+{
+  "name": "CV Match & Optimize AI",
+  "description": "A smart tool to analyze your CV against job requirements and generate an optimized version using Google Gemini AI.",
+  "requestFramePermissions": []
+}
